@@ -1,5 +1,21 @@
 [
     {
+    "date": "2026-10-12",
+    "title": "Google Pixel 11 Series Launches",
+    "summary": "Everything Google announced at Made by Google, from new chips to camera hardware.",
+    "body": "Google's 'Made by Google' event delivered exactly what was rumored: a four-phone Pixel 11 lineup built around a new-generation Tensor chipset, deeper on-device AI integration, and a redesigned camera system anchored by a distinctive Pixel Glow LED on the back. The standard Pixel 11 starts at $899, with the Pixel 11 Pro and Pro XL climbing to $1,099 and $1,299, while a Pixel 11 Pro Fold tops the lineup at $1,899.\n\nBeyond specs, Google leaned heavily into AI-powered photography and call-screening improvements as the differentiators for this generation. We break down what's genuinely new versus iterative, how the pricing compares to last year's Pixel 10 lineup, and which model actually makes sense depending on how you use your phone day to day.",
+    "category": "Electronics",
+    "image": "pixel11.jpg"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "A Welding Robot That Walks to the Job",
+    "summary": "Path Robotics straps its AI welding model onto a four-legged robot, bringing automated welding to job sites that were too big or too awkward to automate before.",
+    "body": "Path Robotics has launched Rove, a mobile robotic welding system that mounts the company's Obsidian physical AI model onto a quadruped robot, letting it walk directly to a workpiece rather than requiring the workpiece be brought to a fixed welding cell. It's a meaningful shift for industries like shipbuilding, heavy construction, and large-scale fabrication, where massive assemblies and inconsistent part fit-up have long made robotic welding automation impractical — those environments simply couldn't fit a part into a traditional welding cell, even as skilled-welder shortages have made automation more urgent than ever.\n\nObsidian already handles adaptive, real-time welding adjustments inside fixed cells, and Rove extends that same intelligence into the field, using the legged platform's mobility to scan weld seams and adjust welding parameters on the fly in unpredictable, high-variability settings. Path Robotics CEO Andy Lonsberry frames it as proof that legged robots — long dismissed as too unstable for precision welding work — can now handle it. Saronic Technologies, an autonomous maritime vessel maker, has signed on as one of the first early adopters, testing Rove in its shipbuilding operations in Franklin, Louisiana, with broader commercial availability expected in early 2027.",
+    "category": "Robotics",
+    "image": "pathrobotics.jpg"
+  },
+    {
     "date": "2026-12-17",
     "title": "RAF 16: Chimaev vs. Evans",
     "summary": "Khamzat Chimaev's crossover reign meets its most decorated test yet in UFC Hall of Famer Rashad Evans.",
