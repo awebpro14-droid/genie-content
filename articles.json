@@ -759,11 +759,7 @@
     "category": "MMA",
     "imageName": "ufc330.jpg"
   },
-
-
-
-
-   {
+{
     "date": "2026-11-26",
     "title": "RAF 15: Tsarukyan vs. Pettis",
     "summary": "A UFC lightweight contender defends crossover gold against a former champion stepping onto the mat.",
@@ -819,5 +815,4 @@
     "category": "PFL",
     "image": "pfl_lyon.jpg"
   }
-  
 ]
